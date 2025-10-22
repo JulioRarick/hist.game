@@ -32,7 +32,7 @@ export function Footer() {
         </section>
         <section className="flex h-full w-full items-center justify-center gap-7 px-8 pt-6 lg:justify-end lg:pt-0">
           <Link
-            href="https://www.juliorarick.tech"
+            href="https://www.juliorarick.site"
             target="_blank"
             className="text-sm text-stone-700 hover:text-black lg:p-0"
           >
