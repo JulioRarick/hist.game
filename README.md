@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[🇵🇧 Português](#português) | [🇺🇸 English](#english)
+[Português](#português) | [🇺🇸 English](#english)
 
 </div>
 
